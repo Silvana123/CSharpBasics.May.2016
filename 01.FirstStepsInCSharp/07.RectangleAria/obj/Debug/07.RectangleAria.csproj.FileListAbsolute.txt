@@ -1,0 +1,5 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\07.RectangleAria\bin\Debug\07.RectangleAria.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\07.RectangleAria\bin\Debug\07.RectangleAria.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\07.RectangleAria\bin\Debug\07.RectangleAria.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\07.RectangleAria\obj\Debug\07.RectangleAria.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\07.RectangleAria\obj\Debug\07.RectangleAria.pdb

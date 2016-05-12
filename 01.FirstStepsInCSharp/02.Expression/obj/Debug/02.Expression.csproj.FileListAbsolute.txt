@@ -1,0 +1,5 @@
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\02.Expression\bin\Debug\02.Expression.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\02.Expression\bin\Debug\02.Expression.exe
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\02.Expression\bin\Debug\02.Expression.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\02.Expression\obj\Debug\02.Expression.exe
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\02.Expression\obj\Debug\02.Expression.pdb

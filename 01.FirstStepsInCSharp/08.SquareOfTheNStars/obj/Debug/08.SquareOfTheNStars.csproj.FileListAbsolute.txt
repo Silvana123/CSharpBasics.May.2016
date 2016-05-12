@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\bin\Debug\08.SquareOfTheNStars.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\bin\Debug\08.SquareOfTheNStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\bin\Debug\08.SquareOfTheNStars.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\obj\Debug\08.SquareOfTheNStars.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\obj\Debug\08.SquareOfTheNStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\08.SquareOfTheNStars\obj\Debug\08.SquareOfTheNStars.pdb

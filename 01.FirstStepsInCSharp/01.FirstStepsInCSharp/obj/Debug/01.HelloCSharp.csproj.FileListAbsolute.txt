@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\bin\Debug\01.FirstStepsInCSharp.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\bin\Debug\01.FirstStepsInCSharp.exe
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\bin\Debug\01.FirstStepsInCSharp.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\obj\Debug\01.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\obj\Debug\01.FirstStepsInCSharp.exe
+c:\users\silvana\documents\visual studio 2015\Projects\01.FirstStepsInCSharp\01.FirstStepsInCSharp\obj\Debug\01.FirstStepsInCSharp.pdb
