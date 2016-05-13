@@ -1,6 +1,0 @@
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\bin\Debug\5.Nums1To20.exe.config
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\bin\Debug\5.Nums1To20.exe
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\bin\Debug\5.Nums1To20.pdb
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\obj\Debug\05.Nums1To20.csprojResolveAssemblyReference.cache
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\obj\Debug\5.Nums1To20.exe
-C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\5.Nums1To20\obj\Debug\5.Nums1To20.pdb

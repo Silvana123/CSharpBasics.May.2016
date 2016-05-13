@@ -7,13 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloCSharp", "01.FirstS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Expression", "02.Expression\02.Expression.csproj", "{38722BEB-1914-450E-9B88-ABEBE1EE6F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Nums1To20", "5.Nums1To20\05.Nums1To20.csproj", "{31065DFA-FC7C-4E8B-B242-4473058CAD2F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriangleOf55Stars", "06.TriangleOf55Stars\06.TriangleOf55Stars.csproj", "{83B0425B-1118-4990-9474-794467CB8163}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RectangleAria", "07.RectangleAria\07.RectangleAria.csproj", "{C6032D7F-A597-4E87-82F3-83B0300F017E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RectangleOfTheNStars", "08.SquareOfTheNStars\08.RectangleOfTheNStars.csproj", "{4B8E9908-E505-42BD-8E23-59B973CC6BC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SquareOfTheNStars", "08.SquareOfTheNStars\08.SquareOfTheNStars.csproj", "{4B8E9908-E505-42BD-8E23-59B973CC6BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Num1To20", "05.Num1To20\05.Num1To20.csproj", "{102A2040-3412-42CC-A3BC-9379D078A464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		{38722BEB-1914-450E-9B88-ABEBE1EE6F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38722BEB-1914-450E-9B88-ABEBE1EE6F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38722BEB-1914-450E-9B88-ABEBE1EE6F03}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31065DFA-FC7C-4E8B-B242-4473058CAD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31065DFA-FC7C-4E8B-B242-4473058CAD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31065DFA-FC7C-4E8B-B242-4473058CAD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31065DFA-FC7C-4E8B-B242-4473058CAD2F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83B0425B-1118-4990-9474-794467CB8163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83B0425B-1118-4990-9474-794467CB8163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83B0425B-1118-4990-9474-794467CB8163}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{4B8E9908-E505-42BD-8E23-59B973CC6BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8E9908-E505-42BD-8E23-59B973CC6BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8E9908-E505-42BD-8E23-59B973CC6BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102A2040-3412-42CC-A3BC-9379D078A464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102A2040-3412-42CC-A3BC-9379D078A464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102A2040-3412-42CC-A3BC-9379D078A464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102A2040-3412-42CC-A3BC-9379D078A464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

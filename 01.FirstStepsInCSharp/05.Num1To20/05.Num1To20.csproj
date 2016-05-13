@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31065DFA-FC7C-4E8B-B242-4473058CAD2F}</ProjectGuid>
+    <ProjectGuid>{102A2040-3412-42CC-A3BC-9379D078A464}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_5.Nums1To20</RootNamespace>
-    <AssemblyName>5.Nums1To20</AssemblyName>
+    <RootNamespace>_05.Num1To20</RootNamespace>
+    <AssemblyName>05.Num1To20</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="05.Nums1To20.cs" />
+    <Compile Include="05.Num1To20.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
