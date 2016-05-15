@@ -1,0 +1,8 @@
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\03.InchesToCentimeters\bin\Debug\03.InchesToCentimeters.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\03.InchesToCentimeters\bin\Debug\03.InchesToCentimeters.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\03.InchesToCentimeters\bin\Debug\03.InchesToCentimeters.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\03.InchesToCentimeters\obj\Debug\03.InchesToCentimeters.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\03.InchesToCentimeters\obj\Debug\03.InchesToCentimeters.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\03.InchesToCentimeters\bin\Debug\03.InchesToCentimeters.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\03.InchesToCentimeters\obj\Debug\03.InchesToCentimeters.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\03.InchesToCentimeters\obj\Debug\03.InchesToCentimeters.pdb

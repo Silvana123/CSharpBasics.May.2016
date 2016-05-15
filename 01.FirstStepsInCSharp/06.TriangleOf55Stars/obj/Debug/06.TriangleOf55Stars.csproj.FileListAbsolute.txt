@@ -3,3 +3,6 @@ C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\06.
 C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\06.TriangleOf55Stars\bin\Debug\06.TriangleOf55Stars.pdb
 C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\06.TriangleOf55Stars\obj\Debug\06.TriangleOf55Stars.exe
 C:\Users\silvana\Documents\Visual Studio 2015\Projects\01.FirstStepsInCSharp\06.TriangleOf55Stars\obj\Debug\06.TriangleOf55Stars.pdb
+D:\SoftUni\CSharpBasics.May.2016\01.FirstStepsInCSharp\06.TriangleOf55Stars\bin\Debug\06.TriangleOf55Stars.exe.config
+D:\SoftUni\CSharpBasics.May.2016\01.FirstStepsInCSharp\06.TriangleOf55Stars\obj\Debug\06.TriangleOf55Stars.exe
+D:\SoftUni\CSharpBasics.May.2016\01.FirstStepsInCSharp\06.TriangleOf55Stars\obj\Debug\06.TriangleOf55Stars.pdb

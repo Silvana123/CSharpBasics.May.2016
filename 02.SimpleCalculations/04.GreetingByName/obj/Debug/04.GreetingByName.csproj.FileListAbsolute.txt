@@ -1,0 +1,10 @@
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\04.GreetingByName\bin\Debug\04.GreetingByName.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\04.GreetingByName\bin\Debug\04.GreetingByName.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\04.GreetingByName\bin\Debug\04.GreetingByName.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\04.GreetingByName\obj\Debug\04.GreetingByName.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\04.GreetingByName\obj\Debug\04.GreetingByName.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\04.GreetingByName\bin\Debug\04.GreetingByName.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\04.GreetingByName\obj\Debug\04.GreetingByName.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\04.GreetingByName\obj\Debug\04.GreetingByName.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\04.GreetingByName\bin\Debug\04.GreetingByName.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\04.GreetingByName\bin\Debug\04.GreetingByName.pdb

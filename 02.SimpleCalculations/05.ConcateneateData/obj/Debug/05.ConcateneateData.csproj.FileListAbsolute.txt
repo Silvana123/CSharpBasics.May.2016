@@ -1,0 +1,12 @@
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\bin\Debug\05.ConcateneateData.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\bin\Debug\05.ConcateneateData.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\bin\Debug\05.ConcateneateData.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\obj\Debug\05.ConcateneateData.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\obj\Debug\05.ConcateneateData.exe
+c:\users\silvana\documents\visual studio 2015\Projects\ConsoleApplication1\05.ConcateneateData\obj\Debug\05.ConcateneateData.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\bin\Debug\05.ConcateneateData.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\obj\Debug\05.ConcateneateData.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\obj\Debug\05.ConcateneateData.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\bin\Debug\05.ConcateneateData.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\bin\Debug\05.ConcateneateData.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\05.ConcateneateData\obj\Debug\05.ConcateneateData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\06.TrapezoidArea\bin\Debug\06.TrapezoidArea.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\06.TrapezoidArea\bin\Debug\06.TrapezoidArea.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\06.TrapezoidArea\bin\Debug\06.TrapezoidArea.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\06.TrapezoidArea\obj\Debug\06.TrapezoidArea.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\06.TrapezoidArea\obj\Debug\06.TrapezoidArea.pdb
