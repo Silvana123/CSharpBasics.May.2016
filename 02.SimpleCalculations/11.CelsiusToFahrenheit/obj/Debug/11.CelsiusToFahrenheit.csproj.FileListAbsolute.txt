@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\bin\Debug\11.CelsiusToFahrenheit.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\bin\Debug\11.CelsiusToFahrenheit.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\bin\Debug\11.CelsiusToFahrenheit.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\obj\Debug\11.CelsiusToFahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\obj\Debug\11.CelsiusToFahrenheit.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\11.CelsiusToFahrenheit\obj\Debug\11.CelsiusToFahrenheit.pdb

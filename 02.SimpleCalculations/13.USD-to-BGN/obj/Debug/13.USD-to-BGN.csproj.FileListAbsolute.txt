@@ -1,0 +1,5 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\13.USD-to-BGN\bin\Debug\13.USD-to-BGN.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\13.USD-to-BGN\bin\Debug\13.USD-to-BGN.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\13.USD-to-BGN\bin\Debug\13.USD-to-BGN.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\13.USD-to-BGN\obj\Debug\13.USD-to-BGN.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\13.USD-to-BGN\obj\Debug\13.USD-to-BGN.pdb
