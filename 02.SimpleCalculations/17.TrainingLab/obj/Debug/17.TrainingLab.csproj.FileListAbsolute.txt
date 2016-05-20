@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\bin\Debug\17.TrainingLab.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\bin\Debug\17.TrainingLab.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\bin\Debug\17.TrainingLab.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\obj\Debug\17.TrainingLab.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\obj\Debug\17.TrainingLab.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\17.TrainingLab\obj\Debug\17.TrainingLab.pdb

@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\bin\Debug\14.CurrencyConverter.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\bin\Debug\14.CurrencyConverter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\bin\Debug\14.CurrencyConverter.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\obj\Debug\14.CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\obj\Debug\14.CurrencyConverter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\14.CurrencyConverter\obj\Debug\14.CurrencyConverter.pdb

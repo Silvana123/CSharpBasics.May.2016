@@ -1,0 +1,9 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\bin\Debug\09.BGN-to-EUR-Converter.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\bin\Debug\09.BGN-to-EUR-Converter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\bin\Debug\09.BGN-to-EUR-Converter.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\09.BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\_09.BGN_to_EUR_Converter.FormConverter.resources
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\_09.BGN_to_EUR_Converter.Properties.Resources.resources
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\09.BGN-to-EUR-Converter.csproj.GenerateResource.Cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\09.BGN-to-EUR-Converter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\02.SimpleCalculations\09.BGN-to-EUR-Converter\obj\Debug\09.BGN-to-EUR-Converter.pdb
