@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\bin\Debug\01.ExcellentResult.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\bin\Debug\01.ExcellentResult.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\bin\Debug\01.ExcellentResult.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\obj\Debug\01.ExcellentResult.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\obj\Debug\01.ExcellentResult.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\01.ExcellentResult\obj\Debug\01.ExcellentResult.pdb

@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\obj\Debug\05.Number0...9ToText.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\obj\Debug\_05.Number0._._._9ToText.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\05.Number0...9ToText\obj\Debug\_05.Number0._._._9ToText.pdb

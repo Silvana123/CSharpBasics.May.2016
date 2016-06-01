@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.exe
+c:\users\silvana\documents\visual studio 2015\Projects\03.SimpleConditionalStatements\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.pdb

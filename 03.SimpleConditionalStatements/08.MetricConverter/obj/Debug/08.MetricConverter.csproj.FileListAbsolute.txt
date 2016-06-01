@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\bin\Debug\08.MetricConverter.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\bin\Debug\08.MetricConverter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\bin\Debug\08.MetricConverter.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\obj\Debug\08.MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\obj\Debug\08.MetricConverter.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\08.MetricConverter\obj\Debug\08.MetricConverter.pdb

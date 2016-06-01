@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\bin\Debug\07.SumSeconds.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\bin\Debug\07.SumSeconds.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\bin\Debug\07.SumSeconds.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\obj\Debug\07.SumSeconds.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\obj\Debug\07.SumSeconds.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\03.SimpleConditionalStatements\07.SumSeconds\obj\Debug\07.SumSeconds.csprojResolveAssemblyReference.cache
