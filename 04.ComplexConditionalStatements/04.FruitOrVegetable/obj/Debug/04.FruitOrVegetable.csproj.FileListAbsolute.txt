@@ -1,0 +1,5 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\04.FruitOrVegetable\obj\Debug\04.FruitOrVegetable.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\04.FruitOrVegetable\obj\Debug\04.FruitOrVegetable.pdb

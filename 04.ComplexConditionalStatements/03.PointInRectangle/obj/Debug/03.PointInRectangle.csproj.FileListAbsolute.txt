@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\bin\Debug\03.PointInRectangle.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\obj\Debug\03.PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\bin\Debug\03.PointInRectangle.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\bin\Debug\03.PointInRectangle.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\obj\Debug\03.PointInRectangle.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\03.PointInRectangle\obj\Debug\03.PointInRectangle.pdb

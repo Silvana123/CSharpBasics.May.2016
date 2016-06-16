@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\04.ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.pdb

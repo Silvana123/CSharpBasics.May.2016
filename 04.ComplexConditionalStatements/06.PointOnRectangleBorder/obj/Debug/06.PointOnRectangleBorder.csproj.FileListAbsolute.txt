@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\obj\Debug\06.PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\obj\Debug\06.PointOnRectangleBorder.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\06.PointOnRectangleBorder\obj\Debug\06.PointOnRectangleBorder.pdb

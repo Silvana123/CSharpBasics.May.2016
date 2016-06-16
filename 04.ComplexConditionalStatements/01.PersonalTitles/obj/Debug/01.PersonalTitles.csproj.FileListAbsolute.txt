@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\bin\Debug\01.PersonalTitles.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\bin\Debug\01.PersonalTitles.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\obj\Debug\01.PersonalTitles.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\obj\Debug\01.PersonalTitles.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\01.PersonalTitles\obj\Debug\01.PersonalTitles.pdb

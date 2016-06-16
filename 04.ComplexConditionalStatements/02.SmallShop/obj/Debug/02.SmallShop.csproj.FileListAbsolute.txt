@@ -1,0 +1,5 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\02.SmallShop\bin\Debug\02.SmallShop.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\02.SmallShop\bin\Debug\02.SmallShop.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\02.SmallShop\bin\Debug\02.SmallShop.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\02.SmallShop\obj\Debug\02.SmallShop.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\02.SmallShop\obj\Debug\02.SmallShop.pdb

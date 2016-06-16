@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\bin\Debug\09.DayOfWeek.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\bin\Debug\09.DayOfWeek.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\bin\Debug\09.DayOfWeek.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\obj\Debug\09.DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\obj\Debug\09.DayOfWeek.exe
+c:\users\silvana\documents\visual studio 2015\Projects\04.ComplexConditionalStatements\09.DayOfWeek\obj\Debug\09.DayOfWeek.pdb
