@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\09.VowelsSum\bin\Debug\09.VowelsSum.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\09.VowelsSum\obj\Debug\09.VowelsSum.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\09.VowelsSum\bin\Debug\09.VowelsSum.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\09.VowelsSum\bin\Debug\09.VowelsSum.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\09.VowelsSum\obj\Debug\09.VowelsSum.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\09.VowelsSum\obj\Debug\09.VowelsSum.pdb

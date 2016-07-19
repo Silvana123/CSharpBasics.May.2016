@@ -1,0 +1,5 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\06.MinNumber\bin\Debug\06.MinNumber.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\06.MinNumber\bin\Debug\06.MinNumber.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\06.MinNumber\bin\Debug\06.MinNumber.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\06.MinNumber\obj\Debug\06.MinNumber.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\06.MinNumber\obj\Debug\06.MinNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.pdb

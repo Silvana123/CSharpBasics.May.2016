@@ -1,0 +1,10 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\bin\Debug\10.TurtleGraphics.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\bin\Debug\10.TurtleGraphics.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\bin\Debug\10.TurtleGraphics.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\10.TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\_10.TurtleGraphics.Form1.resources
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\_10.TurtleGraphics.Properties.Resources.resources
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\10.TurtleGraphics.csproj.GenerateResource.Cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\10.TurtleGraphics.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.TurtleGraphics\obj\Debug\10.TurtleGraphics.pdb

@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\04.SumNumbers\obj\Debug\04.SumNumbers.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\04.SumNumbers\obj\Debug\04.SumNumbers.csprojResolveAssemblyReference.cache

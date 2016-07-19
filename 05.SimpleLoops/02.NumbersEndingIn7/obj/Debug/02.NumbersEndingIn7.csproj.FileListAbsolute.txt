@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.pdb

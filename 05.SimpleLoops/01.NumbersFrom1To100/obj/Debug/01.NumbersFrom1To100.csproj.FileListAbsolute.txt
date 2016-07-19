@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.csprojResolveAssemblyReference.cache
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.pdb

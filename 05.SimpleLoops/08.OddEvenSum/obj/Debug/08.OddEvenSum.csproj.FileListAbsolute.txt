@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\obj\Debug\08.OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

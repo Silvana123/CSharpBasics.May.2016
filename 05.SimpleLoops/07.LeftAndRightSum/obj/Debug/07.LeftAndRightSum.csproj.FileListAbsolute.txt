@@ -1,0 +1,5 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

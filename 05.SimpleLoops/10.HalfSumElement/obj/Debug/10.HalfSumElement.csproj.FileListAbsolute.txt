@@ -1,0 +1,1 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe.config

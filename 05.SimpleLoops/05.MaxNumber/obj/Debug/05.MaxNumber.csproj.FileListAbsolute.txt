@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Projects\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.csprojResolveAssemblyReference.cache
