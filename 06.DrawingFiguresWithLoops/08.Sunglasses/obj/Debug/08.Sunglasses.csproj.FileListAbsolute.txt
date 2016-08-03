@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

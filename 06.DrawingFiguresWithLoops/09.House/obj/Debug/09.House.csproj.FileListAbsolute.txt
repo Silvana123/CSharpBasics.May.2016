@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\obj\Debug\09.House.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\bin\Debug\09.House.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\obj\Debug\09.House.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\09.House\obj\Debug\09.House.pdb

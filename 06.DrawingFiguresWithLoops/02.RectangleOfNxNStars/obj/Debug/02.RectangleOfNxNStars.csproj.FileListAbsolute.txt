@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\bin\Debug\02.RectangleOfNxNStars.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\02.RectangleOfNxNStars\obj\Debug\02.RectangleOfNxNStars.pdb

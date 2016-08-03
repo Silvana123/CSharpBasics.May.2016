@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.csprojResolveAssemblyReference.cache

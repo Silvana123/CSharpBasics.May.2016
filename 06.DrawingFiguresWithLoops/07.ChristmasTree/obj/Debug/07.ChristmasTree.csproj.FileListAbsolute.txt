@@ -1,0 +1,6 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb
